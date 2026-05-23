@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System
 
 A simple Python-based project to manage student records.
@@ -43,3 +44,6 @@ python main.py
 
 ## Author
 Yusuf
+=======
+# Student-Management-System
+>>>>>>> f5956027a3df463221618ea5963c1692b61e5046
